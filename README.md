@@ -25,5 +25,5 @@ By running the simulation with 10,000 shots, the results show a clear entangleme
 
 ![Capture](https://github.com/user-attachments/assets/6f7e3762-86f0-4568-af81-085034a82aa5)
 
-[<img width="860" height="707" alt="Capt3u3re" src="[https://github.com/user-attachments/assets/b84efaee-9f81-4279-80f7-f0afcc957472](https://github.com/user-attachments/assets/e4617435-57bc-4f92-ab2e-6b140cd50038)" />
+[<alt="Capture" src=[("https://github.com/user-attachments/assets/6f7e3762-86f0-4568-af81-085034a82aa5")/>
 ]
