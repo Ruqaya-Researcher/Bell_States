@@ -84,7 +84,7 @@ Through this project I learned how to:
 
 ## About Me
 
-My name is **Roqaya**.
+My name is **Ruqaya**.
 
 I am a 14-year-old student from Egypt who is passionate about Quantum Computing and Artificial Intelligence.
 
